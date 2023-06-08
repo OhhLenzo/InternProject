@@ -6,7 +6,7 @@
 [![Brendan's Github Stats](https://github-readme-stats.vercel.app/api?username=OhhLenzo)](https://github.com/OhhLenzo/github-readme-stats)
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+<THIS IS MY NEW LINE.>
 💡 &nbsp;I like to explore new techn and quick hacks\
 🎓 &nbsp;I'm currently studying Computer Science at Saint Martin's University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
