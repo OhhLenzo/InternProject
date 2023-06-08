@@ -52,6 +52,10 @@ Contributors names and contact info
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-## Acknowledgments
+## Much Mahalos to
 - Jono Senpai
-
+- Lindsey Mitros
+- Sean Patnode
+- Aquia
+- Clarity
+- RevaComm
