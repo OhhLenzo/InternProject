@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Aloha, I'm Brendan Foster
 
-[![Brendan's Github Stats](https://github-readme-stats.vercel.app/api?username=aOhhLenzo)](https://github.com/OhhLenzo/github-readme-stats)
+[![Brendan's Github Stats](https://github-readme-stats.vercel.app/api?username=OhhLenzo)](https://github.com/OhhLenzo/github-readme-stats)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
