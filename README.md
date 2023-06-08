@@ -53,3 +53,5 @@ ex. [@OhhLenzo](https://twitch.tv/ohhlenzo)
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
+    - Jono Senpai
+
