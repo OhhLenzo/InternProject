@@ -1,4 +1,4 @@
-# Project Title
+# SS2023 Intern Repo
 
 Simple overview of use/purpose.
 
@@ -37,8 +37,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Brendan.Foster 
+ex. [@OhhLenzo](https://twitch.tv/ohhlenzo)
 
 ## Version History
 
