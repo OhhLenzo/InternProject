@@ -1,4 +1,5 @@
-## 👋 &nbsp;Aloha, I'm Brendan Foster
+## 👋 &nbsp;Aloha, I'm Brendan Foster 
+![](https://komarev.com/ghpvc/?username=OhhLenzo&color=green)
 
 [![Brendan's Github Stats](https://github-readme-stats.vercel.app/api?username=OhhLenzo)](https://github.com/OhhLenzo/github-readme-stats)
 
