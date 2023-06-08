@@ -37,8 +37,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Brendan.Foster 
-ex. [@OhhLenzo](https://twitch.tv/ohhlenzo)
+- Brendan.Foster 
+ [@OhhLenzo](https://twitch.tv/ohhlenzo)
 
 ## Version History
 
