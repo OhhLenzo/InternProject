@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I fish to provide and for sport.\
 💬 &nbsp;Feel free to follow my daily live streams @ https://twitch.tv/ohhlenzo.com
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></h2>
 <br/>
 
 ## My skills
