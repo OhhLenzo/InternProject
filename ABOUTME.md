@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at Saint Martin's University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I fish to provide and for sport.\
-💬 &nbsp;Feel free to follow my daily live streams @ https://twitch.tv/OhhLenzo.com.\
+💬 &nbsp;Feel free to follow my daily live streams @ https://twitch.tv/ohhlenzo.com
 
 ## My skills
 
