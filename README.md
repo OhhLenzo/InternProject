@@ -1,4 +1,5 @@
-# SS2023 Intern Repo
+# SS2023 Intern Readme
+![](https://komarev.com/ghpvc/?username=OhhLenzo&color=green)
 
 Simple overview of use/purpose.
 
