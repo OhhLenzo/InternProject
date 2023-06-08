@@ -1,5 +1,5 @@
 # InternProject
 SS2023 Intern Repo
 # hello world
-# goodbye world
-# updated world
+# terrain generated
+# world save updated
