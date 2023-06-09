@@ -37,7 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-- Brendan.Foster 
+- Brendan Foster 
  [@OhhLenzo](https://twitch.tv/ohhlenzo)
 
 ## Version History
