@@ -24,3 +24,32 @@ Some of these words _are emphasized also_.
 
 Use two asterisks for **strong emphasis**.
 Or, if you prefer, __use two underscores instead__.
+
+# Lists
+* candy
++ gum
+- booze
+
+# ordered list
+1. red
+2. blue
+3. green
+
+**Table of content:**
+- [Hello World](#item-one)
+- [First Item](#item-two)
+- [Second Item](#item-three)
+
+<!-- headings -->
+<a id="item-one"></a>
+### Hello World
+Hello world content goes here
+
+<a id="item-two"></a>
+### First Item
+First item content goes here
+
+<a id="item-three"></a>
+### Second Item
+Second item content goes here
+
