@@ -35,10 +35,13 @@ Or, if you prefer, __use two underscores instead__.
 2. blue
 3. green
 
+==============================
+
 **Table of content:**
 - [Hello World](#item-one)
 - [First Item](#item-two)
 - [Second Item](#item-three)
+- [goodbye World](#item-four)
 
 <!-- headings -->
 <a id="item-one"></a>
